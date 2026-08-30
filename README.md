@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Tianna Bassaragh 👋</h1>
+<h1 align="center">Hi, I'm Tianna Bassaragh 👋😄</h1>
 
 <p align="center">
 Recent grad exploring where I fit best in software — from full-stack apps to embedded systems.
@@ -33,19 +33,19 @@ I'm currently open to opportunities in **software development, full-stack develo
 
 ### 🚀 Featured Projects
 
-**[Capstone Job Matching System](https://github.com/TiannaBassaragh/Capstone-Job-Matching-System)**
+**[Capstone Job Matching System](https://github.com/TiannaBassaragh/Capstone-Job-Matching-System)**  <br>
 A full-stack job matching platform developed as my capstone project, with a React (Vite) frontend, Python backend, database migrations, and Docker containerization.
 `React` `Python` `SQL` `Docker`
 
-**[AI Tariff Impact Simulator](https://github.com/JustSomeGuy420/ai-hackathon-2025)** *(Team Project)*
+**[AI Tariff Impact Simulator](https://github.com/JustSomeGuy420/ai-hackathon-2025)** *(Team Project)*  <br>
 A full-stack application developed in a team of 4 during a 48-hour AI hackathon, using a React frontend and an AI-powered backend to model and explore the potential impact of tariffs.
 `React` `AI` `Full-Stack` `Hackathon`
 
-**[Weather Station](https://github.com/TiannaBassaragh/Weather-Station)**
+**[Weather Station](https://github.com/TiannaBassaragh/Weather-Station)**  <br>
 An IoT weather station programmed using C that collects live environmental data (temperature, humidity, etc.) and reports it, combining embedded programming with hardware and sensor integration.
 `C` `Embedded Systems` `IoT` `Hardware Integration`
 
-**[INFO2180 Lab 5](https://github.com/TiannaBassaragh/info2180-lab5)**
+**[INFO2180 Lab 5](https://github.com/TiannaBassaragh/info2180-lab5)**  <br>
 A server-side web application developed in PHP as part of my web development coursework, featuring dynamic pages, form handling, and backend logic.
 `PHP` `Web Development` `Backend Development`
 
@@ -53,9 +53,9 @@ A server-side web application developed in PHP as part of my web development cou
 
 ### 🛠️ Skills
 
-**Languages:** Python · Java · C · JavaScript · PHP · HTML/CSS
-**Frameworks & Tools:** React · Vite · Docker · SQL / Alembic migrations · Git / GitHub
-**Areas:** Software Development · Full-Stack Development · AI · Embedded Systems & IoT
+**Languages:** Python · Java · C · JavaScript · PHP · HTML/CSS  <br>
+**Frameworks & Tools:** React · Vite · Docker · SQL / Alembic migrations · Git / GitHub  <br>
+**Areas:** Software Development · Full-Stack Development · AI · Embedded Systems & IoT  <br>
 
 ---
 
